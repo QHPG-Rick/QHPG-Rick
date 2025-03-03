@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rick.
 - 👀 I’m interested in LLMs, Multimodal Models and Reasoning Acceleration.
-- 🌱 I’m currently learning photography and cuisine.
+- 🌱 I’m currently learning diffusion models, photography and cuisine.
 - 💞️ I’m looking to collaborate on innovative AI projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I collect vintage cameras from around the world.
