@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on innovative AI projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I collect vintage cameras from around the world.
+- 📢 You can find more information about me here：https://qhpg-rick.github.io/
 
 <!---
 QHPG-Rick/QHPG-Rick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
