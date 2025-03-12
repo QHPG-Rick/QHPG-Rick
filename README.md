@@ -8,7 +8,8 @@
 
 ![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=QHPG-Rick)
 
-![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QHPG-Rick&theme=react)
+![Rick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QHPG-Rick&theme=tokyo-night)
+
 
 <!---
 QHPG-Rick/QHPG-Rick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
